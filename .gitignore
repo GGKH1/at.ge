@@ -1,0 +1,6 @@
+mysql
+node_modules
+package-lock.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
